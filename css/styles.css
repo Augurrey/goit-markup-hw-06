@@ -1201,7 +1201,7 @@ a {
   pointer-events: auto;
 }
 
-.mobile-menu.is-open .header-burger {
+.header-burger.is-open {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
